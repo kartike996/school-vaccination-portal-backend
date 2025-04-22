@@ -2,3 +2,6 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost:27017/school_vaccination_data
+      
+server:
+  port: 8081
