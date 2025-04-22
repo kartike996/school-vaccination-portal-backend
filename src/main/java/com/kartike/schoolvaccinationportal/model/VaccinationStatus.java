@@ -13,7 +13,7 @@ public class VaccinationStatus {
 	
     private String vaccineName;
     
-    private LocalDate VaccinationDate;
+    private LocalDate vaccinationDate;
     
     private String driveId;
     
